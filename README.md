@@ -17,13 +17,13 @@
 ## 📸 Screenshots  
 
 ### Dashboard  
-![Dashboard](./final/pic/WhatsApp%20Image%202025-09-07%20at%203.38.17%20PM.jpeg)  
+![Dashboard](./pic/WhatsApp%20Image%202025-09-07%20at%203.38.17%20PM.jpeg)  
 
 ### AI Agents Library  
-![AI Agents](./final/pic/WhatsApp%20Image%202025-09-07%20at%203.38.31%20PM.jpeg)  
+![AI Agents](./pic/WhatsApp%20Image%202025-09-07%20at%203.38.31%20PM.jpeg)  
 
 ### Agent Cards  
-![Agent Cards](./final/pic/WhatsApp%20Image%202025-09-07%20at%203.38.55%20PM.jpeg)  
+![Agent Cards](./pic/WhatsApp%20Image%202025-09-07%20at%203.38.55%20PM.jpeg)  
 
 ---
 
@@ -33,21 +33,4 @@
 - **Backend**: Node.js / Express.js  
 - **AI/ML**: LangChain, OpenAI / LLM APIs  
 - **Database**: MongoDB / PostgreSQL  
-- **Deployment**: Vercel / Docker  
-
----
-
-## 📦 Installation  
-
-```bash
-# Clone the repository
-git clone https://github.com/AzamAliCodes/AgentVerse.git
-
-# Navigate to project folder
-cd AgentVerse
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+- **Deployment**: Vercel / Docker
