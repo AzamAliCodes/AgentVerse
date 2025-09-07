@@ -1,7 +1,7 @@
 # 🌌 AgentVerse
 
 > 🚀 Deploy AI Agents effortlessly — automate tasks, boost productivity, and transform workflows with intelligent automation.  
-> We also use **[n8n-search-engine](https://github.com/AzamAliCodes/n8n-search-engine)** (custom workflow search with indexing & descriptions) inside AgentVerse workflows.
+### We also use **[n8n-search-engine](https://github.com/AzamAliCodes/n8n-search-engine)** (custom workflow search with indexing & descriptions) inside AgentVerse workflows.
 
 ---
 
