@@ -39,7 +39,7 @@ AgentVerse: Build, customize and deploy reliable AI agents (no-code friendly) th
 - **Frontend:** React.js + TailwindCSS  
 - **Backend:** Python 
 - **Automation / Orchestration:** n8n (workflows embedded via our `n8n-search-engine`)  
-- **LLM / AI APIs:** Gemini / OpenAI / other LLM providers (via API keys) — we here used Gemini API key usage.  
+- **LLM / AI APIs:** We here used Gemini API key .  
 - **Database:** MongoDB  
 
 ---
